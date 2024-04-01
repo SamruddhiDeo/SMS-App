@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <!-- Your main content layout here -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:alpha="0.5"
+        android:gravity="center"
+        android:rotation="-45"
+        android:text="Created by Samruddhi Deo for Psylinks Security"
+        android:textColor="#FD706F6F"
+        android:textSize="@dimen/_26ssp" /> <!-- Set transparency level -->
+
+</LinearLayout>
